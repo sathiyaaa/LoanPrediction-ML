@@ -9,7 +9,7 @@ Loaded a historical dataset from previous loan applications, cleaned the data, a
 * Support Vector Machine
 * Logistic Regression
 
-The results is reported as the accuracy of each classifier, using the following metrics when these are applicable:
+The test results of the algorithms are evaluated using:
 
 * Jaccard index
 * F1-score
